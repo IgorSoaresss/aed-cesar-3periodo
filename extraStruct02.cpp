@@ -1,5 +1,5 @@
 /*
-Exercício - Vetor de Structs
+Exercício 2 - Vetor de Structs
 
 Crie um vetor de 5 elementos da struct Aluno, que contém:
 • Nome (string de até 50 caracteres)
