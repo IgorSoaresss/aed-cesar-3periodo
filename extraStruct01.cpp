@@ -1,5 +1,5 @@
 /*
-Exercício - Criando uma Estrutura Simples
+Exercício 1 - Criando uma Estrutura Simples
 
 Crie uma struct chamada Pessoa, que contém os seguintes campos:
 • Nome (string de até 50 caracteres)
