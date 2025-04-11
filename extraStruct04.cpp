@@ -1,5 +1,5 @@
 /*
-Exercício - Structs e Ponteiros
+Exercício 4 - Structs e Ponteiros
 
 Crie uma struct chamada Carro, com os seguintes campos:
 • Modelo (string de até 30 caracteres)
