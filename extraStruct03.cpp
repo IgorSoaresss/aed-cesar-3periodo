@@ -1,5 +1,5 @@
 /*
-Exercício - Structs e Funções
+Exercício 3 - Structs e Funções
 
 Crie uma struct chamada Produto, que contém:
 • Nome do produto (string de até 30 caracteres)
