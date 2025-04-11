@@ -1,5 +1,5 @@
 /*
-Exercício - Agenda de Contatos
+Exercício 7 - Agenda de Contatos
 
 Crie uma agenda telefônica usando structs, onde cada contato possui:
 • Nome (string de até 50 caracteres)
