@@ -1,17 +1,17 @@
 /*
-Exercício 10 - Sistema Bancário Simples
+    Exercício 10 - Sistema Bancário Simples
 
-Crie uma struct chamada ContaBancaria, contendo:
-• Nome do titular (string de até 50 caracteres)
-• Número da conta (inteiro)
-• Saldo (float)
+    Crie uma struct chamada ContaBancaria, contendo:
+    • Nome do titular (string de até 50 caracteres)
+    • Número da conta (inteiro)
+    • Saldo (float)
 
-Crie funções para:
-• Depositar um valor na conta
-• Sacar um valor da conta (apenas se houver saldo suficiente)
-• Exibir o saldo
+    Crie funções para:
+    • Depositar um valor na conta
+    • Sacar um valor da conta (apenas se houver saldo suficiente)
+    • Exibir o saldo
 
-No main(), crie uma conta bancária e permita que o usuário realize operações.
+    No main(), crie uma conta bancária e permita que o usuário realize operações.
 */
 
 #include <iostream>

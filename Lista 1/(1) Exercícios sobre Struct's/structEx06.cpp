@@ -1,13 +1,13 @@
 /*
-Exercício 6 - Cadastro de Livros
+    Exercício 6 - Cadastro de Livros
 
-Crie uma struct chamada Livro, que contenha:
-• Título (string de até 50 caracteres)
-• Autor (string de até 50 caracteres)
-• Ano de publicação (inteiro)
+    Crie uma struct chamada Livro, que contenha:
+    • Título (string de até 50 caracteres)
+    • Autor (string de até 50 caracteres)
+    • Ano de publicação (inteiro)
 
-Crie uma função que recebe um vetor de Livro e exibe os livros publicados após
-um determinado ano (definido pelo usuário).
+    Crie uma função que recebe um vetor de Livro e exibe os livros publicados após
+    um determinado ano (definido pelo usuário).
 */
 
 #include <iostream>

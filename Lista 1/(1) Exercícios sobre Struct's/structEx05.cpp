@@ -1,13 +1,13 @@
 /*
-Exercício 5 - Registro de Funcionários
+    Exercício 5 - Registro de Funcionários
 
-Crie um programa que gerencie um pequeno sistema de funcionários. Cada
-funcionário deve ter:
-• Nome (string de até 50 caracteres)
-• Cargo (string de até 30 caracteres)
-• Salário (float)
+    Crie um programa que gerencie um pequeno sistema de funcionários. Cada
+    funcionário deve ter:
+    • Nome (string de até 50 caracteres)
+    • Cargo (string de até 30 caracteres)
+    • Salário (float)
 
-O programa deve permitir adicionar contatos e buscar um contato pelo nome.
+    O programa deve permitir adicionar contatos e buscar um contato pelo nome.
 */
 
 #include <iostream>

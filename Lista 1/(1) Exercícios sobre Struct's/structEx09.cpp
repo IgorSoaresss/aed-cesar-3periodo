@@ -1,13 +1,13 @@
 /*
-Exercício 9 - Registro de Pacientes
+    Exercício 9 - Registro de Pacientes
 
-Crie uma struct chamada Paciente, contendo:
-• Nome (string de até 50 caracteres)
-• Idade (inteiro)
-• Diagnóstico (string de até 100 caracteres)
+    Crie uma struct chamada Paciente, contendo:
+    • Nome (string de até 50 caracteres)
+    • Idade (inteiro)
+    • Diagnóstico (string de até 100 caracteres)
 
-Crie uma função que recebe um vetor de Paciente e exibe todos os pacientes
-acima de 60 anos.
+    Crie uma função que recebe um vetor de Paciente e exibe todos os pacientes
+    acima de 60 anos.
 */
 
 #include <iostream>

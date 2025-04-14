@@ -1,13 +1,13 @@
 /*
-Exercício 1 - Criando uma Estrutura Simples
+    Exercício 1 - Criando uma Estrutura Simples
 
-Crie uma struct chamada Pessoa, que contém os seguintes campos:
-• Nome (string de até 50 caracteres)
-• Idade (inteiro)
-• Altura (float)
+    Crie uma struct chamada Pessoa, que contém os seguintes campos:
+    • Nome (string de até 50 caracteres)
+    • Idade (inteiro)
+    • Altura (float)
 
-No programa principal, declare uma variável do tipo Pessoa, preencha os dados
-do usuário via teclado e exiba as informações.
+    No programa principal, declare uma variável do tipo Pessoa, preencha os dados
+    do usuário via teclado e exiba as informações.
 */
 
 #include <iostream>
