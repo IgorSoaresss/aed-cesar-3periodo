@@ -16,7 +16,6 @@
 using namespace std;
 
 int produto(int a, int b) {
-    
     if (b == 1) {
         return a;
     }
