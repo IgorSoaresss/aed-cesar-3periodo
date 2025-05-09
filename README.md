@@ -1,3 +1,2 @@
-# aed-cesar-3periodo
-Exercícios da matéria Algoritmos e Estrutura de Dados
-CESAR School, Sistemas de Informação
+# cpp-exercises
+Some C++ exercises i've done throughout my career
